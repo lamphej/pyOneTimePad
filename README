@@ -1,0 +1,8 @@
+# Usage
+-------
+```
+    Encrypt
+        one_time_pad.py enc topsecretfilename
+    Decrypt
+        one_time_pad.py dec topsecretfilename.enc topsecretfilename.cipher
+```
